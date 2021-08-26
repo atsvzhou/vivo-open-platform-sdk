@@ -1,3 +1,3 @@
-module github.com/atsvzhou/vivo-open-platform-sdk
+module vivo
 
 go 1.15
